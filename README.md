@@ -105,6 +105,8 @@ Manage openstack using cli
   openstack floating ip create external
   from gui asssin that floating ip to instance
   4. Configure security group of the instance
+  
+![image](https://user-images.githubusercontent.com/46306526/221383415-5ee61064-efd7-475c-9e2a-36581d61d727.png)
   ![op5](https://user-images.githubusercontent.com/46306526/221383279-6271a8e9-804f-4136-80f4-6b7eb1509303.png)
   ![op7](https://user-images.githubusercontent.com/46306526/221383325-3fc2b831-2d8e-49f9-b658-3b5d0e174f5a.png)
   
