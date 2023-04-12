@@ -11,7 +11,7 @@ stage('test'){
 stage('build '){
     when{
         expression{
-            BRANCH_NAME=='master'
+            BRANCH_NAME=='main'
         }
     }
     steps{
