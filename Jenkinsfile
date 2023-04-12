@@ -4,7 +4,7 @@ stages{
 stage('test'){
     steps{
         script{
-            echo 'testing app at $BRANCH_NAME'
+            echo "testing app at $BRANCH_NAME"
         }
         }
     }   
