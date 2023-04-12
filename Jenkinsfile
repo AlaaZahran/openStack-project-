@@ -16,7 +16,7 @@ stage('build '){
     }
     steps{
          script{
-          echo 'buling app at $BRANCH_NAME' 
+          echo "buling app at $BRANCH_NAME"
         }
     }
 }
